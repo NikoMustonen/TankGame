@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <origin x="0" y="0" z="0"/>
+    
+    <point-map>
+        <point name="0" x="-5" y="-2" z="-9"/>
+        <point name="1" x="-6" y="-1" z="-10"/>
+        <point name="2" x="-6" y="0" z="-10"/>
+        <point name="3" x="-6" y="2" z="-8"/>
+        <point name="4" x="-6" y="2" z="7"/>
+        <point name="5" x="-6" y="0" z="9"/>
+        <point name="6" x="-6" y="-1" z="9"/>
+        <point name="7" x="-5" y="-2" z="4"/>
+        
+        <point name="8" x="5" y="-2" z="-9"/>
+        <point name="9" x="6" y="-1" z="-10"/>
+        <point name="10" x="6" y="0" z="-10"/>
+        <point name="11" x="6" y="2" z="-8"/>
+        <point name="12" x="6" y="2" z="7"/>
+        <point name="13" x="6" y="0" z="9"/>
+        <point name="14" x="6" y="-1" z="9"/>
+        <point name="15" x="5" y="-2" z="4"/>
+        
+        <point name="16" x="-3" y="0.5" z="-8"/>
+        <point name="17" x="3" y="0.5" z="-8"/>
+        <point name="18" x="-3" y="2" z="-8"/>
+        <point name="19" x="3" y="2" z="-8"/>
+        
+        <point name="20" x="-3" y="0.5" z="8"/>
+        <point name="21" x="3" y="0.5" z="8"/>
+        <point name="22" x="-3" y="2" z="8"/>
+        <point name="23" x="3" y="2" z="8"/>
+    </point-map>
+    
+    <polygon-map>
+        <polygon red="20" green="150" blue="50">0 7 1</polygon>
+        <polygon red="20" green="150" blue="50">7 6 1</polygon>
+        <polygon red="20" green="140" blue="50">1 2 3</polygon>
+        <polygon red="20" green="140" blue="50">1 3 4</polygon>
+        <polygon red="20" green="140" blue="50">1 4 5</polygon>
+        <polygon red="20" green="140" blue="50">1 5 6</polygon>
+        
+        <polygon red="20" green="150" blue="50">8 15 9</polygon>
+        <polygon red="20" green="150" blue="50">15 14 9</polygon>
+        <polygon red="20" green="140" blue="50">9 10 11</polygon>
+        <polygon red="20" green="140" blue="50">9 11 12</polygon>
+        <polygon red="20" green="140" blue="50">9 12 13</polygon>
+        <polygon red="20" green="140" blue="50">9 13 14</polygon>
+        
+        <polygon red="20" green="180" blue="50">0 8 15</polygon>
+        <polygon red="20" green="180" blue="50">0 15 7</polygon>
+        
+        <polygon red="20" green="160" blue="50">8 9 0</polygon>
+        <polygon red="20" green="160" blue="50">0 1 9</polygon>
+        
+        <polygon red="20" green="140" blue="50">1 9 2</polygon>
+        <polygon red="20" green="140" blue="50">9 10 2</polygon>
+        
+        <polygon red="20" green="160" blue="50">15 7 14</polygon>
+        <polygon red="20" green="160" blue="50">14 6 7</polygon>
+        
+        <polygon red="20" green="140" blue="50">6 14 13</polygon>
+        <polygon red="20" green="140" blue="50">13 5 6</polygon>
+        
+        <polygon red="20" green="100" blue="23">10 17 19</polygon>
+        <polygon red="20" green="100" blue="23">10 19 11</polygon>
+        <polygon red="20" green="100" blue="23">10 17 2</polygon>
+        <polygon red="20" green="100" blue="23">2 16 17</polygon>
+        <polygon red="20" green="100" blue="23">2 16 18</polygon>
+        <polygon red="20" green="100" blue="23">2 18 3</polygon>
+        
+        <polygon red="20" green="100" blue="23">5 20 22</polygon>
+        <polygon red="20" green="100" blue="23">5 22 4</polygon>
+        <polygon red="20" green="100" blue="23">5 20 13</polygon>
+        <polygon red="20" green="100" blue="23">13 21 23</polygon>
+        <polygon red="20" green="100" blue="23">13 21 20</polygon>
+        <polygon red="20" green="100" blue="23">13 23 12</polygon>
+        
+        <polygon red="10" green="80" blue="23">16 20 22</polygon>
+        <polygon red="10" green="80" blue="23">18 16 22</polygon>
+        
+        <polygon red="10" green="80" blue="23">17 21 23</polygon>
+        <polygon red="10" green="80" blue="23">19 17 23</polygon>
+    </polygon-map>
+</object>
